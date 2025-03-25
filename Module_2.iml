@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ss6_inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ss7_abstractClass_and_interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ss8_clean_code_refactoring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ss10_dsa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ss11_dsa_stack_queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ss12_java_collection_framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ss13_binary_search_algorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ss14_sort_algorithms" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
