@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Module_2.iml" filepath="$PROJECT_DIR$/Module_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casestudy/casestudy.iml" filepath="$PROJECT_DIR$/casestudy/casestudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss19_string_regex/ss19_string_regex.iml" filepath="$PROJECT_DIR$/ss19_string_regex/ss19_string_regex.iml" />
     </modules>
   </component>
 </project>

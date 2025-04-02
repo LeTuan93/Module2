@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/ss12_java_collection_framework" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ss13_binary_search_algorithms" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ss14_sort_algorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ss19_string_regex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/casestudy" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
