@@ -21,7 +21,7 @@ public class ContactService implements IContactService {
 
         for (int i = 0; i < totalContacts; i++) {
             System.out.println(listContact.get(i).toString());
-
+            
             if((i+1)%pageSize == 0  && (i+1) < totalContacts) {
                 System.out.println("Nhấp enter để xem tiếp...");
                 scanner.nextLine();
